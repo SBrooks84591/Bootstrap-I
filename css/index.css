@@ -1,0 +1,22 @@
+.container {
+  max-width: 850px;
+  width: 100%;
+  font-size: 62.5%;
+  font-family: Papyrus, sans-serif;
+}
+.nav {
+  font-size: .75rem;
+  text-decoration: none;
+  padding: 15px 0;
+}
+.nav-link {
+  color: black;
+  font-weight: 500;
+}
+.jumbotron {
+  background: #b9bcce;
+}
+h2,
+h4 {
+  padding: 15px;
+}
